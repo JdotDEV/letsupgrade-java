@@ -16,5 +16,6 @@ public class SumCalculator {
         System.out.println("Sum of the five integers: " + sum);
 
         scanner.close();
+        //Hello wassup
     }
 }
